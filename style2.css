@@ -1,0 +1,46 @@
+.color-title{
+	font-weight: normal;
+}
+
+h1 {
+	font-family: 'Architects Daughter', cursive;
+	font-size: 80pt;
+}
+
+html {
+	background-color: darkkhaki;
+}
+
+#red {
+	color: red;
+	font-family: cursive;
+}
+
+
+#orange {
+	color: orange;
+	font-weight: bold;
+}
+
+
+#green {
+	color: green;
+	font-size: 20pt;
+}
+
+
+#blue {
+	color: blue;
+	font-family: Helvetica, sans-serif;
+}
+
+
+#yellow {
+	color: yellow;
+	font-style: italic;
+}
+
+img {
+	height: 200px;
+	width: 200px;
+}
